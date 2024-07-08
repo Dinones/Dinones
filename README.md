@@ -42,7 +42,7 @@ Imagine being a Spanish young guy with a superfancy bachelor's degree in Telecom
     <a href="mailto:dinodinones@gmail.com" target="_blank">
         <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Gmail.svg" height="50" alt="Gmail"/>
     </a>
-    <a href="mailto:dinodinones@gmail.com" target="_blank">
+    <a href="https://www.youtube.com/@DinoDinones" target="_blank">
         <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Youtube.svg" height="47" alt="Youtube"/>
     </a>
 </div>
