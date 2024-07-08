@@ -12,11 +12,11 @@ Imagine being a Spanish young guy with a superfancy bachelor's degree in Telecom
 <h3 align="left">Contact with me:</h3>
 
 <div align="left">
-    <a href="mailto:dinodinones@gmail.com" target="_blank" style="margin-right: 10px;">
-        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Gmail.svg" height="50" alt="Gmail"/>
-    </a>
-    <a href="mailto:dinodinones@gmail.com" target="_blank" style="margin-right: 15px;">
+    <a href="https://discordapp.com/users/330983876367482880" target="_blank">
         <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Discord.svg" height="40" alt="Discord"/>
+    </a>
+    <a href="mailto:dinodinones@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Gmail.svg" height="50" alt="Gmail"/>
     </a>
     <a href="mailto:dinodinones@gmail.com" target="_blank">
         <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Youtube.svg" height="47" alt="Youtube"/>
