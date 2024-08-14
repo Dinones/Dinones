@@ -22,7 +22,7 @@ Imagine being a Spanish young guy with a superfancy bachelor's degree in Telecom
     <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Git.svg" height="40" alt="Git"/>
     <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Linux.svg" height="40" alt="Linux"/>
     <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Raspberry%20Pi.svg" height="40" alt="Raspberry Pi"/>
-    <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Arduino2.svg" height="40" alt="Arduino"/> 
+    <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Arduino.svg" height="40" alt="Arduino"/> 
     <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/PyQT.svg" height="42" alt="PyQT"/>
     <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/SQLite.svg" height="40" alt="SQLite"/>
     <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Flask.svg" height="40" alt="Flask"/>
