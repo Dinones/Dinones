@@ -1,4 +1,4 @@
-<h1 align="center">Creating bugs and bots until I get a Unicorn 🦄</h1>
+<h1 align="center">Creating bugs until I get a Unicorn 🦄</h1>
 
 <!-- #################### ABOUT ME #################### -->
 
