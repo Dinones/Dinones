@@ -19,8 +19,10 @@ Imagine being a Spanish young guy with a superfancy bachelor's degree in Telecom
 <p>
     <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Python.svg" height="40" alt="Python"/>
     <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/OpenCV.svg" height="40" alt="OpenCV"/>
+    <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Pandas.svg" height="40" alt="Pandas"/>
     <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Git.svg" height="40" alt="Git"/>
     <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Linux.svg" height="40" alt="Linux"/>
+    <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/LaTeX.svg" height="40" alt="LaTeX"/>
     <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Raspberry%20Pi.svg" height="40" alt="Raspberry Pi"/>
     <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Arduino.svg" height="40" alt="Arduino"/> 
     <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/PyQT.svg" height="42" alt="PyQT"/>
