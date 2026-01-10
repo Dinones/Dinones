@@ -1,4 +1,4 @@
-<h1 align="center">Creating bugs until I get a Unicorn 🦄</h1>
+<h1 align="center">Code. Break. Fix. Repeat. 🚀</h1>
 
 <!-- #################### ABOUT ME #################### -->
 
@@ -7,7 +7,13 @@
     ⠀About Me
 </h2>
 
-Imagine being a Spanish young guy with a superfancy bachelor's degree in Telecommunication Engineering and Electronics and another superfancy Cybersecurity master's degree 🚀. You'd think I'd be swimming in job offers, right? Well, not quite... It turns out nobody cares about it, what really impressed the interviewers weren't my degrees, but my GitHub repos. Who knew that debugging at 3 AM the code I broke some hours before 👾 would be more impressive than any degree? So remember: having a good GitHub repo is like having a pet unicorn – it gets all the attention and everyone loves it! 🦄 
+Imagine being a young engineer from Spain with a **Bachelor's degree in Telecommunication Engineering & Electronics** and a **Master's degree in Cybersecurity** 🚀. Sounds fancy, right?
+
+Turns out, what really impressed interviewers wasn't my academic background, but my GitHub. The projects I've built, broken, and fixed _(often at questionable late-night hours)_ mattered way more than any diploma.
+
+If you're a recruiter or just curious, feel free to take a look at **my GitHub repository with 100+ stars** ⭐ _(pinned below)_; it's probably the most honest summary of my skills, mindset, and how I approach real-world problems.
+
+<br>
 
 <!-- #################### SKILLS #################### -->
 
@@ -16,39 +22,46 @@ Imagine being a Spanish young guy with a superfancy bachelor's degree in Telecom
     ⠀Languages and Tools
 </h2>
 
-<p>
-    <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Python.svg" height="40" alt="Python"/>
-    <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/OpenCV.svg" height="40" alt="OpenCV"/>
-    <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Pandas.svg" height="40" alt="Pandas"/>
-    <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Git.svg" height="40" alt="Git"/>
-    <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Linux.svg" height="40" alt="Linux"/>
-    <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/LaTeX.svg" height="40" alt="LaTeX"/>
-    <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Raspberry%20Pi.svg" height="40" alt="Raspberry Pi"/>
-    <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Arduino.svg" height="40" alt="Arduino"/> 
-    <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/PyQT.svg" height="42" alt="PyQT"/>
-    <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/SQLite.svg" height="40" alt="SQLite"/>
-    <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Flask.svg" height="40" alt="Flask"/>
-</p>
-
-<!-- #################### CONTACT #################### -->
-
-<h2 align="left">
-    <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Message.svg" width="25px" align="top"/>
-    ⠀Connect with me
-</h2>
-
-<div align="left">
-    <a href="https://discordapp.com/users/330983876367482880" target="_blank">
-        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Discord.svg" height="40" alt="Discord"/>
-    </a>
-    <a href="mailto:dinodinones@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Gmail.svg" height="50" alt="Gmail"/>
-    </a>
-    <a href="https://www.youtube.com/@DinoDinones" target="_blank">
-        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Youtube.svg" height="47" alt="Youtube"/>
-    </a>
-</div>
-
-<br>
-
-📫 Written email: **dinodinones@gmail.com**
+<table>
+  <tr align="center">
+    <td>
+        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Python.svg" height="40"/><br/>
+        <sub>Python</sub>
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/SVG/Google%20Cloud.svg" height="40"/><br/>
+        <sub>Google Cloud</sub>
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Git.svg" height="40"/><br/>
+        <sub>Git</sub>
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Linux.svg" height="40"/><br/>
+        <sub>Linux</sub>
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Flask.svg" height="40"/><br/>
+        <sub>Flask</sub>
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/OpenCV.svg" height="40"/><br/>
+        <sub>OpenCV</sub>
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/PyQT.svg" height="40"/><br/>
+        <sub>PyQt</sub>
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/LaTeX.svg" height="40"/><br/>
+        <sub>LaTeX</sub>
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Raspberry%20Pi.svg" height="40"/><br/>
+            <sub>Raspberry Pi</sub>
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Arduino.svg" height="40"/><br/>
+        <sub>Arduino</sub>
+    </td>
+</table>
