@@ -1,5 +1,7 @@
 <h1 align="center">Code. Break. Fix. Repeat. 🚀</h1>
 
+<br>
+
 <!-- #################### ABOUT ME #################### -->
 
 <h2>
@@ -22,46 +24,52 @@ If you're a recruiter or just curious, feel free to take a look at **my GitHub r
     ⠀Languages and Tools
 </h2>
 
-<table>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/Skills%20Black.png#gh-light-mode-only" width="90%"/>
+    <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/Skills%20White.png#gh-dark-mode-only" width="90%"/>
+</p>
+
+
+<!-- <table>
   <tr align="center">
     <td>
-        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Python.svg" height="40"/><br/>
+        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Python.svg"  width="40" height="40" /><br/>
         <sub>Python</sub>
     </td>
     <td>
-        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/SVG/Google%20Cloud.svg" height="40"/><br/>
+        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/SVG/Google%20Cloud.svg"  width="40" height="40" /><br/>
         <sub>Google Cloud</sub>
     </td>
     <td>
-        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Git.svg" height="40"/><br/>
+        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Git.svg"  width="40" height="40" /><br/>
         <sub>Git</sub>
     </td>
     <td>
-        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Linux.svg" height="40"/><br/>
+        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Linux.svg"  width="40" height="40" /><br/>
         <sub>Linux</sub>
     </td>
     <td>
-        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Flask.svg" height="40"/><br/>
+        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Flask.svg"  width="40" height="40" /><br/>
         <sub>Flask</sub>
     </td>
     <td>
-        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/OpenCV.svg" height="40"/><br/>
+        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/OpenCV.svg"  width="40" height="40" /><br/>
         <sub>OpenCV</sub>
     </td>
     <td>
-        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/PyQT.svg" height="40"/><br/>
+        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/PyQT.svg"  width="40" height="40" /><br/>
         <sub>PyQt</sub>
     </td>
     <td>
-        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/LaTeX.svg" height="40"/><br/>
+        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/LaTeX.svg"  width="40" height="40" /><br/>
         <sub>LaTeX</sub>
     </td>
     <td>
-        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Raspberry%20Pi.svg" height="40"/><br/>
+        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Raspberry%20Pi.svg"  width="40" height="40" /><br/>
             <sub>Raspberry Pi</sub>
     </td>
     <td>
-        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Arduino.svg" height="40"/><br/>
+        <img src="https://raw.githubusercontent.com/Dinones/Repository-Images/master/Cover%20Page/SVG/Arduino.svg"  width="40" height="40" /><br/>
         <sub>Arduino</sub>
     </td>
-</table>
+</table> -->
